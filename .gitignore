@@ -1,7 +1,11 @@
 #################
+## Jekyll
+#################
+site/
+
+#################
 ## Eclipse
 #################
-
 *.pydevproject
 .project
 .metadata
