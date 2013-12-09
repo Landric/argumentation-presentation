@@ -5,8 +5,8 @@ This is a short presentation on my research into how people argue on the social 
 
 ##Further reading
 If you would like to find out more on this topic, here are some suggested reading areas:
-    - The Art of Always Being Right: Thirty Eight Ways to Win When You Are Defeated, (2004), Gibson Square Books, ISBN 1-903933-61-7
-    -
+
+- The Art of Always Being Right: Thirty Eight Ways to Win When You Are Defeated, (2004), Gibson Square Books, ISBN 1-903933-61-7
 
 
 ##License
